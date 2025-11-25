@@ -11,10 +11,10 @@ var lyricsData = [
   { text: "imaginaba estar", time: 17 },
   { text: "aun cuando yo no sabia a quien esperaba.", time: 20 },
   { text: "Estoy muy feliz", time: 23 },
-  { text: "de que estes en mi vida 🩷", time: 26 },
-  { text: "de que estes en mi vida 🩷", time: 29 },
-  { text: "de que estes en mi vida 🩷", time: 32 },
-  { text: "de que estes en mi vida 🩷", time: 35 },
+  { text: "de ser parte de tu vida 🩷", time: 26 },
+  { text: "de ser parte de tu vida 🩷", time: 29 },
+  { text: "de ser parte de tu vida 🩷", time: 32 },
+  { text: "de ser parte de tu vida 🩷", time: 35 },
 ];
 
 // Animar las letras
